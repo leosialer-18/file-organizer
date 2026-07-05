@@ -1,5 +1,7 @@
 # File Organizer
 
+
+
 A Python application that automatically organizes files into folders based on their file extensions.
 
 ## Overview
@@ -17,9 +19,6 @@ script.py      → Python/
 
 If a destination folder does not exist, it is created automatically before moving the file.
 
-The required folders are created automatically if they do not already exist.
-
-
 ## Features
 
 - Organizes files by extension.
@@ -31,8 +30,9 @@ The required folders are created automatically if they do not already exist.
 ## Technologies
 
 - Python 3
-- os
-- shutil
+- Standard Library:
+  - os
+  - shutil
 
 ## Project Structure
 
@@ -53,7 +53,13 @@ Clone the repository:
 git clone https://github.com/leosialer-18/file-organizer.git
 ```
 
-Run the program:
+Move into the project folder:
+
+```bash
+cd file-organizer
+```
+
+Run the application:
 
 ```bash
 python file_organizer.py
@@ -81,3 +87,5 @@ During this project I practiced:
 ## Author
 
 Leonardo Sialer Gonzales
+
+First-year ASIR (Network Systems Administration) student interested in Microsoft systems, automation and cybersecurity.
