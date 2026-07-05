@@ -1,6 +1,6 @@
 # File Organizer
 
-
+![File Organizer Demo](assets/images/demo.png)
 
 A Python application that automatically organizes files into folders based on their file extensions.
 
