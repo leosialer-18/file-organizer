@@ -1,0 +1,8 @@
+test_folder/
+
+Folder-Test/
+
+__pycache__/
+*.pyc
+
+.vscode/
